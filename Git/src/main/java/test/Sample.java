@@ -5,4 +5,10 @@ public class Sample {
 		//第一次編輯
 		System.out.println("this is Version1");
 	}
+
+	public Sample() {
+		super();
+		
+	}
+	
 }
